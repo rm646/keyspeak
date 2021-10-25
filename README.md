@@ -1,3 +1,9 @@
+# Overview
+
+I don't want to wake my darling child when chatting to friends in a game, so I've written 
+this script to do (limited) chatting for me.
+
+# Acknowledgements
 
 Thanks to https://stackoverflow.com/a/61674334
 
