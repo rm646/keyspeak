@@ -1,0 +1,3 @@
+keyboard==0.13.5
+gTTS==2.2.3
+pygame==2.0.0.dev20
